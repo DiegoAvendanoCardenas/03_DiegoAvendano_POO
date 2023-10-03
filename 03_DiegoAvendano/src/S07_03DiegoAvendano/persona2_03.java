@@ -2,7 +2,7 @@
 package S07_03DiegoAvendano;
 
 
-public class persona2 {
+public class persona2_03 {
     String nombres;
     String sexo;
     int edad;
