@@ -1,5 +1,5 @@
 
-package S07_03DiegoAvendano;
+package S07_03;
 
 
 public class persona2_03 {

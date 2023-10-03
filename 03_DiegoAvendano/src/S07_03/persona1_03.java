@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package S07_03DiegoAvendano;
+package S07_03;
 
 /**
  *
  * @author dieoa
  */
-public class persona1 {
+public class persona1_03 {
     
     
     //Metodos con parametros
