@@ -2,7 +2,7 @@
 package S07_03;
 
 
-public class Main_S07_03DiegoAvendano {
+public class Main_S07_03 {
     public static void main(String[] args) {
         persona1_03 objPer1 = new persona1_03();
         
