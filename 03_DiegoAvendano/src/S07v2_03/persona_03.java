@@ -40,6 +40,10 @@ public class persona_03 {
         return 0;
     }
     
+    public double miAltura (){
+        return 0.0;
+    }
+    
     //Metodos con parametros y argumentos
     
     public void hola(int a , int b){
