@@ -1,19 +1,20 @@
-
 package S11_03_E01;
-
-
-public class Persona_03 {
-
-    public Persona_03(String nombre, String edad) {
+/*
+ @author 03_DiegoAvendano
+*/
+public class Persona_03_E01 {
+    
+    //Metodo constructor
+    public Persona_03_E01(String nombre, String edad) {
         this.nombre = nombre;
         this.edad = edad;
     }
     
-    
-    
+    //Atributos
     String nombre;
     String edad;
     
+    //Metodos
     public void entrenar(){
     
     }
@@ -21,7 +22,8 @@ public class Persona_03 {
     public void comer(){
     
     }
-
+    
+    //Metodos Get and Setter
     public String getNombre() {
         return nombre;
     }
@@ -37,9 +39,5 @@ public class Persona_03 {
     public void setEdad(String edad) {
         this.edad = edad;
     }
-    
-    
-    
-    
     
 }
