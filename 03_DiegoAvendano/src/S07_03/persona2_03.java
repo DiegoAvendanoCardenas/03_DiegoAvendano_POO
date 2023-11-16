@@ -8,11 +8,12 @@ public class persona2_03 {
     int edad;
     
     public int año(int año){
-        System.out.println("estoy en el año " + año);
+        System.out.println("estoy en el anio " + año);
         return 0;
     }
     
     public String saludo(String saludo){
+        System.out.println(saludo);
     return  "";
     }
     

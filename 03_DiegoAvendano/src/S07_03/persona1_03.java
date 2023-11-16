@@ -1,20 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package S07_03;
-
-/**
- *
- * @author dieoa
+/*
+ * @author 03_DiegoAvendaño
  */
 public class persona1_03 {
     
     
-    //Metodos con parametros
+    //Metodos con parametros 03_DiegoAvendaño
+    
     public void persona(String nombre, int edad){
-        System.out.println("Hola me llamo" + nombre + edad);
+        System.out.println("Hola me llamo" + nombre + " y tengo "  +edad+ " Anios");
     }
     
     public void correr(int a){
