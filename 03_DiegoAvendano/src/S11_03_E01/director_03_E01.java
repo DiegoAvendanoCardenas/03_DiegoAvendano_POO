@@ -12,16 +12,16 @@ public class director_03_E01 extends Persona_03_E01{
         this.nivelAcademico = nivelAcademico;
     }
     
-    //Atributos
+    //3 Atributos 03_DiegoAvendano
     String añosDePuesto;
     String colegio;
     String nivelAcademico;
             
-    //Metodos     
+    //2 Metodos 03_DiegoAvendano     
     public void charlasAcademicas(){
-        
+        System.out.println("Hacer Charlas a Alumnos");
     }
     public void realizarReuniones(){
-        
+        System.out.println("Reunirse con los profesores para mejorar el aprendizaje");
     }
 }

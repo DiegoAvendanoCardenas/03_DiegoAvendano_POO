@@ -4,26 +4,26 @@ package S11_03_E01;
 */
 public class Persona_03_E01 {
     
-    //Metodo constructor
+    //Metodo constructor 03_DiegoAvendano
     public Persona_03_E01(String nombre, String edad) {
         this.nombre = nombre;
         this.edad = edad;
     }
     
-    //Atributos
+    // 2 Atributos
     String nombre;
     String edad;
     
-    //Metodos
+    // 2 Metodos 03_DiegoAvendano
     public void entrenar(){
-    
+        System.out.println("Rutina");
     }
     
     public void comer(){
-    
+        System.out.println("Comer Algo");
     }
     
-    //Metodos Get and Setter
+    //Metodos Get and Setter 03_DiegoAvendano
     public String getNombre() {
         return nombre;
     }
